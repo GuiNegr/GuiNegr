@@ -1,4 +1,4 @@
-Oi, Meu nome é guilherme. Comecei em 2023 na area de programação, e estou muito empolgado com meu desenvolvimento.
+Oi, Meu nome é Guilherme. Comecei em 2023 na area de programação, e estou muito empolgado com meu desenvolvimento.
 A programação mesmo que inicial já me ajudou muito na minha vida, além de ensinamentos academicos, me ensinou mais do que como funciona um laço de repetição.
 
 me mostrou o significado de esforço e aonde eu consigo chegar com ele, nunca repeti nenhuma serie da escola nunca foi uma preocupação isso para min, minhas notas sempre foram boas.
